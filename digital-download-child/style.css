@@ -1,0 +1,48 @@
+/*
+Theme Name:   digital-download child theme
+Description:  Write here a brief description about your child-theme
+Author:       elimnir
+Author URL:   Write here the author's blog or website url
+Template:     digital-download
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  digital-download-child
+*/
+
+/* Write here your own personal stylesheet */
+ .site-info{
+	display:none;
+}
+
+
+.textwidget > p{  
+  text-align: center;
+}
+
+
+.entry-header{
+	text-align: center;
+}
+
+
+.post-thumbnail > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.edd_purchase_submit_wrapper{
+	text-align: center;
+}
+
+
+
+.banner{
+	height: 100vh;
+}
+
+.banner .banner-text{
+	margin-top:15vh;
+}
